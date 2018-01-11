@@ -5,6 +5,9 @@
 3. turn on http server `python2 -m SimpleHTTPServer 8000`
 4. go through each example's README
 
+
+THIS WAS DONE IN PAIR WITH JEVON GIBB
+
 Example Order
 
 - example7
